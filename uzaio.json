@@ -1,0 +1,11 @@
+{
+  "vod": [
+    {
+      "name": "YDS直播",
+      "api": "你上传的uzYdsLive.js文件的直链",
+      "webSite": "http://api.hclyz.com:81",
+      "type": 101,
+      "version": 1
+    }
+  ]
+}
