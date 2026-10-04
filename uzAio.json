@@ -2,7 +2,7 @@
   "vod": [
     {
       "name": "YDS直播",
-      "api": "你上传的uzYdsLive.js文件的直链",
+      "api": "https://raw.githubusercontent.com/298594413/uzyuan/refs/heads/main/uzYdsLive.js",
       "webSite": "http://api.hclyz.com:81",
       "type": 101,
       "version": 1
